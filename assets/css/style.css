@@ -1,0 +1,18 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  font-weight: normal;
+  background-image: url(../img/binary-code.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.quotes {
+  font-family: "Sansita Swashed", cursive;
+}
+
+.imageQuotes {
+  max-width: 50vh;
+  max-height: 50vh;
+  border: solid 2px white;
+}
